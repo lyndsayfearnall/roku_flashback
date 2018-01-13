@@ -1,14 +1,14 @@
 {
-  "name": "testgrunt2",
+  "name": "roku_flashback",
   "version": "1.0.0",
-  "description": "second test grunt file",
+  "description": "Roku Flashback App",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lyndsayfearnall/testGrunt_2_readme.git"
+    "url": "https://github.com/lyndsayfearnall/roku_flashback.git"
   },
   "keywords": [
     "grunt"

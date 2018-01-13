@@ -1,2 +1,2 @@
-body{color:white;font-size:15px}body{color:white}
+@import url("https://fonts.googleapis.com/css?family=Pacifico|Roboto");h1,h2,h3,h4,h5,h6{font-family:"Pacifico","Lobster",sans-serif;color:#6c3c97}p,a{font-family:"Roboto",Arial,sans-serif;color:white}section{margin-bottom:20px}.hidden{visibility:hidden}#header{background-color:#6c3c97}#login{background-color:#eae6ff}#categories{background-color:#24c4cb}#footer{background-color:#6c3c97}
 /*# sourceMappingURL=main.css.map */
